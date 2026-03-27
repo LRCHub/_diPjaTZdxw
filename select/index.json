@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "JOY",
+  "base_artist": "光上せあら",
+  "createdAt": "2026-03-27T09:48:28.252780Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Joy of My Life",
+      "artist": "Chris Stapleton",
+      "has_synced": true,
+      "path": "select/01_Joy_of_My_Life_Chris_Stapleton.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nicht Allein - Absolut nicht allein Freundeskreis RMX feat. Joy",
+      "artist": "Absolute Beginner",
+      "has_synced": false,
+      "path": "select/02_Nicht_Allein_-_Absolut_nicht_allein_Freundeskreis_RMX_feat._Joy_Absolute_Beginner.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Video Games - Joy Orbison Remix",
+      "artist": "Lana Del Rey",
+      "has_synced": false,
+      "path": "select/03_Video_Games_-_Joy_Orbison_Remix_Lana_Del_Rey.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "First-Time Mother's Joy (Flying)",
+      "artist": "Mercury Rev",
+      "has_synced": true,
+      "path": "select/04_First-Time_Mother's_Joy_(Flying)_Mercury_Rev.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Joy (feat. Mike Jones)",
+      "artist": "Missy Elliott feat. Mike Jones",
+      "has_synced": false,
+      "path": "select/05_Joy_(feat._Mike_Jones)_Missy_Elliott_feat._Mike_Jones.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Joy (feat. Mike Jones)",
+      "artist": "Missy Elliott",
+      "has_synced": false,
+      "path": "select/06_Joy_(feat._Mike_Jones)_Missy_Elliott.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Joy And Pain (Original)",
+      "artist": "Maze",
+      "has_synced": false,
+      "path": "select/07_Joy_And_Pain_(Original)_Maze.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kill Joy",
+      "artist": "N.E.R.D",
+      "has_synced": true,
+      "path": "select/08_Kill_Joy_N.E.R.D.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Joy Ride",
+      "artist": "Thievery Corporation feat. Sitali & Mr. Lif",
+      "has_synced": false,
+      "path": "select/09_Joy_Ride_Thievery_Corporation_feat._Sitali_&_Mr._Lif.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Joy Ride",
+      "artist": "Thievery Corporation",
+      "has_synced": false,
+      "path": "select/10_Joy_Ride_Thievery_Corporation.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Big Hen (Steal My Joy)",
+      "artist": "Fred again..",
+      "has_synced": true,
+      "path": "select/11_Big_Hen_(Steal_My_Joy)_Fred_again...lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Release the Joy",
+      "artist": "Opus III",
+      "has_synced": false,
+      "path": "select/12_Release_the_Joy_Opus_III.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Joy Factory (feat. Autolux)",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/13_Joy_Factory_(feat._Autolux)_UNKLE.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Feel No Joy",
+      "artist": "Duster",
+      "has_synced": true,
+      "path": "select/14_Feel_No_Joy_Duster.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Joy",
+      "artist": "Mick Jagger",
+      "has_synced": false,
+      "path": "select/15_Joy_Mick_Jagger.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Joy to Have Your Love",
+      "artist": "Patti LaBelle",
+      "has_synced": false,
+      "path": "select/16_Joy_to_Have_Your_Love_Patti_LaBelle.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "JOY",
+      "artist": "光上 せあら",
+      "has_synced": false,
+      "path": "select/pl_01_JOY_光上_せあら.txt"
+    }
+  ]
+}
